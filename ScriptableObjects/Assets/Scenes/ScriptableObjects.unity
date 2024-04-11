@@ -305,7 +305,7 @@ RectTransform:
   m_GameObject: {fileID: 165504588}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1702.0695}
-  m_LocalScale: {x: 1.1061, y: 1.1061, z: 1.1061}
+  m_LocalScale: {x: 1.4287493, y: 1.4287493, z: 1.4287493}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1960711335}
@@ -313,7 +313,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -50.93805, y: -217.47992}
+  m_AnchoredPosition: {x: -50.93805, y: -211}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &165504590
@@ -571,7 +571,7 @@ RectTransform:
   m_GameObject: {fileID: 355273315}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1702.0695}
-  m_LocalScale: {x: 1.1061, y: 1.1061, z: 1.1061}
+  m_LocalScale: {x: 1.4287493, y: 1.4287493, z: 1.4287493}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 59870656}
@@ -579,7 +579,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 176.9118, y: -217.47992}
+  m_AnchoredPosition: {x: 243.37, y: -211}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &355273317
@@ -2614,7 +2614,7 @@ RectTransform:
   m_GameObject: {fileID: 2066579977}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1702.0695}
-  m_LocalScale: {x: 1.1061, y: 1.1061, z: 1.1061}
+  m_LocalScale: {x: 1.4287493, y: 1.4287493, z: 1.4287493}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1704751413}
@@ -2622,7 +2622,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -278.78793, y: -217.47992}
+  m_AnchoredPosition: {x: -345.25, y: -211}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2066579979
